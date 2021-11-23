@@ -27,5 +27,11 @@
     <ClCompile Include="04_FunctionVirtualOverride.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="05_VirtualDestructor.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06_ReferenceAttribute.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
