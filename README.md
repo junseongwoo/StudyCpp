@@ -1,2 +1,1 @@
 # StudyCpp
-Study C++
