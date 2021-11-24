@@ -21,5 +21,20 @@
     <ClCompile Include="02_AddOperator.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="03_TimeOpPlus.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="04_TimePlusInt.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="05_TimePlusInt2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06_TimePlusInt3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="오버로딩_규칙.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
