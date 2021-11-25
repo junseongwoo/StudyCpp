@@ -33,7 +33,10 @@
     <ClCompile Include="06_TimePlusInt3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="오버로딩_규칙.cpp">
+    <ClCompile Include="07_오버로딩_규칙.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="08_TimeRelation.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
