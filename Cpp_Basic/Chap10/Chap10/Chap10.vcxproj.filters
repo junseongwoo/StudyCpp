@@ -36,5 +36,14 @@
     <ClCompile Include="07_CommuMultipleOperation.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="08_ConsoleOutput.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="09_IterateConsoleOutput.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10_PointConsoleOutput.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
