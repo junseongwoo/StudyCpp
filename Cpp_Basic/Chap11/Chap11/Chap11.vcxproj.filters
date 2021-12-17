@@ -27,5 +27,17 @@
     <ClCompile Include="04_ImproveInit.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="05_ArrayClass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06_StableConstArrayProb.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="07_StableConstArraySolu.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="08_StablePointObjArray.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
