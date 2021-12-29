@@ -29,6 +29,7 @@ BoundCheckArray<T>::BoundCheckArray(int len) : arrlen(len)
 	arr = new T[len];
 }
 
+// 템플릿 클래스 오퍼레이터
 template <typename T>
 T& BoundCheckArray<T>::operator[] (int idx)
 {
