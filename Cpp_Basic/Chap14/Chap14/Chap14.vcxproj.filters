@@ -41,5 +41,11 @@
     <ClCompile Include="06_TemplateParamDefaultValue.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="07_FunctionTemplateStaticVar.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="08_ClassTemplateStaticMem.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
