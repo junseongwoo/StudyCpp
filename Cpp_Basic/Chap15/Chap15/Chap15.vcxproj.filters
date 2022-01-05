@@ -24,5 +24,17 @@
     <ClCompile Include="03_HandlingExceptionTryCatch.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="04_PassException.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="05_DiffHandlingPosition.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06_StackUnwinding.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="07_CatchList.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
